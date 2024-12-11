@@ -1,4 +1,4 @@
-public class AndTwoNum {
+public class AddTwoNum {
     public static void main(String args[]){
         if(args.length <2) {
     
